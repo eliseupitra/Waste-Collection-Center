@@ -1,0 +1,218 @@
+/*Body*/
+
+body {
+	font-family: sans-serif;
+	background-color: rgb(255,238,221);
+}
+
+.b1 {
+	background-image: url("trash img 5.png");
+	background-size: 1408px, 768px;
+	background-position: center top;
+	background-repeat: no-repeat;
+		
+}
+
+.b2 {
+		
+}
+
+
+.b3 {
+	background-image: url("trash img 6.png");
+	background-size: 1408px, 768px;
+	background-position: center top;
+	background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nav-menu {
+  list-style-type: none;   /* removes bullets */
+  margin: 0;
+  padding: 0;
+  display: flex;           /* key line for horizontal layout */
+  background-color: rgb(193,99,0)
+}
+
+.nav-menu li {
+  margin: 0;
+}
+
+.nav-menu li a {
+  display: block;
+  padding: 14px 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.nav-menu li a:hover {
+  background-color: #555
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Headings*/
+
+  
+  h1, h2, h3 { color: rgb(193,99,0)
+  } 
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Section*/
+
+section {
+	border-style: solid;
+	border-width: 0px;
+	background-color: white;
+	font-size: 18px;
+	line-height: 1.5;
+	margin: 100px;
+	padding: 50px;
+}
+
+
+.sec11 { 
+margin-top: 700px;
+}
+
+.sec12 { 
+margin-top: 100px;
+}
+
+.sec31{
+	margin-top: 800px;
+	background-color: white;
+}
+
+.sec31{
+margin-top: 800px;
+}
+
+.sec31{
+	margin-top: 800px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*Table*/
+
+
+  table {
+    width: 50%;
+    border-collapse: collapse;
+	border-color: white;
+    font-family: Arial, sans-serif;
+	margin: auto;
+	margin-bottom: 100px;
+	background-color: white;
+
+  }
+  
+
+  
+  
+  
+  #th1 {
+	  text-align: center;
+	  background-color: rgb(193,99,0);
+  }
+  
+    #th2 {
+	  text-align: center;
+	  background-color: rgb(193,99,0);
+	
+  }
+  
+    #th3 {
+	  text-align: center;
+	  background-color: rgb(193,99,0);
+  }
+  
+  
+  
+  
+  th, td {
+    border: 1px solid black;
+   padding: 12px;
+    text-align: left;
+    vertical-align: top;
+  }
+
+
+
+
+
+
+
+/* Footer*/
+
+footer {
+    background-color: rgb(193,99,0);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
